@@ -3,7 +3,9 @@
 - 🔭 I'm currently working on creating discord bots and in my spare time I do some scripts for [Rage:MP](https://rage.mp/)
 - 🌱 I’m currently learning some languages.
 - 💬 Ask me about something!
-- ⚡ See my website: [Here](http://pedrompdev.ml)
+- ⚡ See my website: [Click here](http://pedrompdev.ml)
+###Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/{pedromp00}/count.svg)
 
 
 

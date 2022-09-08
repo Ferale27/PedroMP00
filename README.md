@@ -9,7 +9,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{pedromp00}/count.svg)
 
 ### Contact
-[![Discord Presence](https://lanyard.cnrad.dev/api/459753414650363905?idleMessage=:http://pedrompdev.ml)](https://discord.com/users/459753414650363905)
+[![Discord Presence](https://lanyard.cnrad.dev/api/459753414650363905?idleMessage=http://pedrompdev.ml)](https://discord.com/users/459753414650363905)
 
 
 

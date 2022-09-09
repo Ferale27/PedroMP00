@@ -11,5 +11,8 @@
 ### Contact
 [![Discord Presence](https://lanyard.cnrad.dev/api/459753414650363905?idleMessage=http://pedrompdev.ml)](https://discord.com/users/459753414650363905)
 
+## My Github Stats
+![mygithubstats](https://github-readme-stats.vercel.app/api?username=pedromp00&show_icons=true&theme=onedark)
+
 
 
